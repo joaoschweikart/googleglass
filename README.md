@@ -1,2 +1,2 @@
 # googleglass
- Projeto Google Glass - HTML - CSS - PHP
+ Google Glass with HTML-5, CSS3 and PHP
